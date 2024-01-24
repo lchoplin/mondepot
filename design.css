@@ -5,7 +5,11 @@ div{
     border:1px solid red;
     background-color: aqua;
     width: 300px;
+<<<<<<< HEAD
     height:40px;
+=======
+    height: 40px;
+>>>>>>> 282a2e769681d71d07e8fe819e3313e8cd776b58
     text-align: center;
     padding: 10px;
 }
